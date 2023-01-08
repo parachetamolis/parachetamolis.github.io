@@ -9,17 +9,37 @@
     <description>Recent content on Svetaine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 17:11:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2023 18:35:15 +0200</lastBuildDate>
     
 	<atom:link href="https://parachetamolis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Puslapis2</title>
+      <link>https://parachetamolis.github.io/posts/puslapis-2/puslapis2/</link>
+      <pubDate>Sun, 08 Jan 2023 18:35:15 +0200</pubDate>
+      
+      <guid>https://parachetamolis.github.io/posts/puslapis-2/puslapis2/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          def random_code_block(n: int) -&amp;gt; str: return &#39;&#39;.join(random.choice(string.ascii_lowercase) for _ in range(n)) print(random_code_block(10)) This function generates a random string of lowercase letters with a length specified by the n parameter.
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Puslapis 1</title>
-      <link>https://parachetamolis.github.io/posts/puslapis/</link>
+      <link>https://parachetamolis.github.io/posts/puslapis-1/puslapis/</link>
       <pubDate>Sun, 08 Jan 2023 17:11:49 +0200</pubDate>
       
-      <guid>https://parachetamolis.github.io/posts/puslapis/</guid>
+      <guid>https://parachetamolis.github.io/posts/puslapis-1/puslapis/</guid>
       <description>
         
           
